@@ -1,0 +1,13 @@
+{
+  "name": "hit-api",
+  "version": "1.0.0",
+  "description": "API lấy lịch sử MD5",
+  "main": "hit.js",
+  "scripts": {
+    "start": "node hit.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "express": "^5.1.0"
+  }
+}
